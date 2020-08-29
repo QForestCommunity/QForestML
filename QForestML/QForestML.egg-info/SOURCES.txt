@@ -1,0 +1,8 @@
+README.md
+setup.py
+QForestML/__init__.py
+QForestML/qnn.py
+QForestML.egg-info/PKG-INFO
+QForestML.egg-info/SOURCES.txt
+QForestML.egg-info/dependency_links.txt
+QForestML.egg-info/top_level.txt
